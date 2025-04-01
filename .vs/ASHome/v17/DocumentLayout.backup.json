@@ -1,0 +1,1071 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|c:\\users\\user\\desktop\\setup\\yeni\\ashome\\ashome\\forms\\downpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\downpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\downpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\downpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\downpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\downpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\aboutform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\database\\databasebackuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\database\\databasebackuphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\expensesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\expensesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\expensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\expensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\contractsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\contractsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\contractsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printdownpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printdownpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\settingsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertylistingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertylistingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printdownpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printdownpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printdownpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printdownpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\downpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\downpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertydetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertydetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\companyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\propertydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\propertydetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\expensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\expensesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\utils\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\utils\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printcontractform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printcontractform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printcontractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printcontractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\printcontractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\printcontractform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\employeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\employeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\utils\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\utils\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\utils\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\utils\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\forms\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\forms\\customersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.nuget\\packages\\metroframework\\1.2.0.3\\README.TXT||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ashome\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B746A2-5808-4CE5-9C0A-DFF88CE19466}|ASHome\\ASHome.csproj|solutionrelative:ashome\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DownPaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DownPaymentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\DownPaymentForm.Designer.cs",
+              "ViewState": "AgIAAKMCAAAAAAAAAAAuwLgCAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:26:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:56:16.019Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAcwBoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:56:17.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\App.config",
+              "RelativeDocumentMoniker": "ASHome\\App.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\App.config",
+              "RelativeToolTip": "ASHome\\App.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-31T21:30:50.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DownPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DownPaymentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\DownPaymentForm.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAuwNwBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:26:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAcwF0BAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:56:24.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyListingForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyListingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyListingForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:49.741Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PropertyListingForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyListingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyListingForm.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAAAcwDIBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:51.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DownPaymentForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DownPaymentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DownPaymentForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\DownPaymentForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:26:35.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AboutForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\AboutForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\AboutForm.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:18:36.089Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "README.TXT",
+              "DocumentMoniker": "C:\\Users\\USER\\.nuget\\packages\\metroframework\\1.2.0.3\\README.TXT",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\metroframework\\1.2.0.3\\README.TXT",
+              "ToolTip": "C:\\Users\\USER\\.nuget\\packages\\metroframework\\1.2.0.3\\README.TXT",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\metroframework\\1.2.0.3\\README.TXT",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-31T21:28:12.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "ASHome\\Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "ASHome\\Database\\DatabaseManager.cs",
+              "ViewState": "AgIAADcLAAAAAAAAAAAuwFULAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:04:48.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:27:07.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\AboutForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:18:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\AboutForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\AboutForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:18:31.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:27:03.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ExpensesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ExpensesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ExpensesForm.Designer.cs",
+              "ViewState": "AgIAAIoCAAAAAAAAAAAuwKYCAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:02:04.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Customer.cs",
+              "RelativeToolTip": "ASHome\\Models\\Customer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:05.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseBackupHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Database\\DatabaseBackupHelper.cs",
+              "RelativeDocumentMoniker": "ASHome\\Database\\DatabaseBackupHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Database\\DatabaseBackupHelper.cs",
+              "RelativeToolTip": "ASHome\\Database\\DatabaseBackupHelper.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwJAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:05:46.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Program.cs",
+              "RelativeDocumentMoniker": "ASHome\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Program.cs",
+              "RelativeToolTip": "ASHome\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:28:43.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContractsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ContractsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ContractsForm.Designer.cs",
+              "ViewState": "AgIAABoDAAAAAAAAAAAuwEcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:11:52.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContractsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ContractsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\ContractsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:11:43.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExpensesForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ExpensesForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ExpensesForm.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAuwOwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:01:53.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContractsForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ContractsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ContractsForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ContractsForm.cs",
+              "ViewState": "AgIAACMCAAAAAAAAAAAuwFACAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:11:45.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PrintDownPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAMwEQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:47:13.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "ASHome\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T01:53:27.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "ASHome\\Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Properties\\Settings.settings",
+              "RelativeToolTip": "ASHome\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-04-01T01:52:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Settings.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Settings.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Settings.cs",
+              "RelativeToolTip": "ASHome\\Models\\Settings.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA3wGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:43:16.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SettingsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\SettingsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\SettingsForm.Designer.cs",
+              "ViewState": "AgIAAP8DAAAAAAAAAAAuwCwEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:35:11.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\SettingsForm.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAuwBgCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:35:01.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAAEDAAAAAAAAAAAuwC4DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:37:45.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAuwDsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:37:39.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PropertyListingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyListingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyListingForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyListingForm.Designer.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAuwPcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:52:54.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PrintDownPaymentForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintDownPaymentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\PrintDownPaymentForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:47:13.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PrintDownPaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintDownPaymentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintDownPaymentForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PrintDownPaymentForm.Designer.cs",
+              "ViewState": "AgIAAD4CAAAAAAAAAAAuwGsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:47:19.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAuwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:27:09.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DownPayment.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\DownPayment.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\DownPayment.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\DownPayment.cs",
+              "RelativeToolTip": "ASHome\\Models\\DownPayment.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA3wFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PropertyDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyDetailsForm.Designer.cs",
+              "ViewState": "AgIAALsCAAAAAAAAAAAAAOMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:10:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CompanyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\CompanyInfo.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\CompanyInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\CompanyInfo.cs",
+              "RelativeToolTip": "ASHome\\Models\\CompanyInfo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAzwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:03:23.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Contract.cs",
+              "RelativeToolTip": "ASHome\\Models\\Contract.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:03:53.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Employee.cs",
+              "RelativeToolTip": "ASHome\\Models\\Employee.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Expense.cs",
+              "RelativeToolTip": "ASHome\\Models\\Expense.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\Property.cs",
+              "RelativeToolTip": "ASHome\\Models\\Property.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\PropertyImage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\PropertyImage.cs",
+              "RelativeToolTip": "ASHome\\Models\\PropertyImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:04:57.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ASHome\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Models\\User.cs",
+              "RelativeToolTip": "ASHome\\Models\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:05:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SettingsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\SettingsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\SettingsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:35:01.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PropertyDetailsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyDetailsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyDetailsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:10:04.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PropertyDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PropertyDetailsForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PropertyDetailsForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PropertyDetailsForm.cs",
+              "ViewState": "AgIAAMwBAAAAAAAAAAAAAPQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:10:07.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ExpensesForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ExpensesForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ExpensesForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\ExpensesForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:01:49.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "EmployeeManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\EmployeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\EmployeeManagementForm.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAASwA0BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:53:16.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\ExportHelper.cs",
+              "RelativeDocumentMoniker": "ASHome\\Utils\\ExportHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\ExportHelper.cs",
+              "RelativeToolTip": "ASHome\\Utils\\ExportHelper.cs",
+              "ViewState": "AgIAALcBAAAAAAAAAAAAAN8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:05:31.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CustomersForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\CustomersForm.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAADgvyEBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:08:33.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DashboardForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\DashboardForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\DashboardForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:37:38.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ReportForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\ReportForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:27:16.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ReportForm.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAAAGMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:27:17.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\ReportForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\ReportForm.Designer.cs",
+              "ViewState": "AgIAAMwDAAAAAAAAAAAAAPQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:27:23.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PrintContractForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintContractForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\PrintContractForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:17:01.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PrintContractForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintContractForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PrintContractForm.cs",
+              "ViewState": "AgIAAKwBAAAAAAAAAAAAANQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:17:02.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PrintContractForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\PrintContractForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\PrintContractForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\PrintContractForm.Designer.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:17:08.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EmployeeManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\EmployeeManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\EmployeeManagementForm.Designer.cs",
+              "ViewState": "AgIAACUCAAAAAAAAAAAAAE0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:53:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "EmployeeManagementForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\EmployeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\EmployeeManagementForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\EmployeeManagementForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:53:15.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "ASHome\\Utils\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\SecurityHelper.cs",
+              "RelativeToolTip": "ASHome\\Utils\\SecurityHelper.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:07:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "ASHome\\Utils\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Utils\\ImageHelper.cs",
+              "RelativeToolTip": "ASHome\\Utils\\ImageHelper.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAOgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:07:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CustomersForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\CustomersForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Forms\\CustomersForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:08:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CustomersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASHome\\Forms\\CustomersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Forms\\CustomersForm.Designer.cs",
+              "RelativeToolTip": "ASHome\\Forms\\CustomersForm.Designer.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAAAADkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T23:08:42.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Form1.cs",
+              "RelativeDocumentMoniker": "ASHome\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\yeni\\ASHome\\ASHome\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ASHome\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T21:25:31.208Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
